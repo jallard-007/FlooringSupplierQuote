@@ -1,5 +1,7 @@
 # FlooringSupplierQuote
 
+School Assignment
+
 A flooring contractor needs a tool to help show customers options for costing materials.
 Although all the floors are the same rectangular shape, the material type of the flooring (i.e.
 concrete, hardwood, linoleum, ceramic tiles...) can change the way to calculate the required
